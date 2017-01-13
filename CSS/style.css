@@ -1,0 +1,93 @@
+body {
+    padding-top: 0px;
+  }
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+h2 {
+    font-family: Tahoma;
+}
+p {
+    font-family: 'Roboto', sans-serif
+    
+}
+img {
+    width:100%;
+}
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.navbar-nav.navbar-right:last-child {
+    margin-right: 10px;
+}
+
+.greet-text {
+  font-size: 5em;
+}
+
+a:link {
+    font-family: Tahoma;
+    font-size: 1.5em;
+}
+
+
+.circle {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  font-size: 20px;
+  line-height: 150px;
+  text-align: center;
+  background: #6492db;
+}
+
+.button {
+    background-color: #6492db;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.exp .vr{
+    background-color:#5d5d63;
+}
+.vr {
+    width:2px;
+    background-color:#f3f3f3;
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:150px;
+}
+
+.exp .edu {
+    background: white;
+    border-bottom: solid 4px #e8e7e7;
+}
+
+.edu {
+    width: auto;
+    background: #f3f3f3;
+    border-bottom: solid 4px #eeeeee;
+    padding: 22px 47px 6px 47px;
+    margin-left: 0px;
+     margin-top: 40px;
+    text-align: left;
+}
