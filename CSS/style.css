@@ -65,7 +65,7 @@ a:link {
 
 .img-circle {
     border-radius: 50%;
-  
+
 }
 .chart {
     position: relative;
@@ -101,7 +101,6 @@ textarea{
     border:0px;
     outline: none;
     transition: none;
-     transparent !important;
 }
 .form-control .form-control-lg{
     border:0px;
