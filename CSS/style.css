@@ -10,7 +10,7 @@ h2 {
 }
 p {
     font-family: 'Roboto', sans-serif
-    
+
 }
 img {
     width:100%;
@@ -37,15 +37,17 @@ a:link {
     font-size: 1.5em;
 }
 
-
 .circle {
+  font-size: 1.2em;
+  background: #6492db;
+  text-align: center;
   width: 140px;
   height: 140px;
+  margin-top:50px;
+  -webkit-border-radius: 50%;
   border-radius: 50%;
   font-size: 20px;
   line-height: 150px;
-  text-align: center;
-  background: #6492db;
 }
 
 .button {
@@ -63,8 +65,8 @@ a:link {
 
 .img-circle {
     border-radius: 50%;
+  
 }
-
 .chart {
     position: relative;
     display: inline-block;
@@ -84,9 +86,7 @@ a:link {
     line-height: 152px;
     z-index: 2;
 }
-.exp .vr{
-    background-color:#5d5d63;
-}
+
 
 
 .exp .edu {
@@ -96,7 +96,7 @@ a:link {
 
 
 
-textarea{ 
+textarea{
     background-color:#585f73 !important;
     border:0px;
     outline: none;
