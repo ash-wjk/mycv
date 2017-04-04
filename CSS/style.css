@@ -1,25 +1,30 @@
 body {
-    padding-top: 0px;
-  }
-h1 {
-    font-family: 'Roboto', sans-serif;
-    font-weight: bold;
+  padding-top: 0px;
 }
-h2 {
-    font-family: Tahoma;
-}
-p {
-    font-family: 'Roboto', sans-serif
 
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
 }
+
+h2 {
+  font-family: Tahoma;
+}
+
+p {
+  font-family: 'Roboto', sans-serif
+}
+
 img {
     width:100%;
 }
+
 .navbar .navbar-nav {
   display: inline-block;
   float: none;
   vertical-align: top;
 }
+
 .navbar .navbar-collapse {
   text-align: center;
 }
@@ -44,7 +49,7 @@ a:link {
   width: 140px;
   height: 140px;
   margin-top:50px;
-  -webkit-border-radius: 50%;
+
   border-radius: 50%;
   font-size: 20px;
   line-height: 150px;
@@ -87,20 +92,17 @@ a:link {
     z-index: 2;
 }
 
-
-
 .exp .edu {
     background: white;
     border-bottom: solid 4px #e8e7e7;
 }
-
-
 
 textarea{
     background-color:#585f73 !important;
     border:0px;
     outline: none;
     transition: none;
+    
 }
 .form-control .form-control-lg{
     border:0px;
