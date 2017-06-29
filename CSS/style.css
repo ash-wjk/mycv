@@ -96,7 +96,12 @@ a:link {
     background: white;
     border-bottom: solid 4px #e8e7e7;
 }
-
+.prot{
+    width:250px;
+    height:250px; 
+    display: block;
+    margin: 50px auto;
+}
 textarea{
     background-color:#585f73 !important;
     border:0px;
